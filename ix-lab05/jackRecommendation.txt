@@ -1,0 +1,124 @@
+jack's recommendation
+1 - You Got Served: Take it to the Streets (2004) (predicted rating: 5.00)
+2 - Clarissa Explains It All: Season 1 (1991) (predicted rating: 5.00)
+3 - Cane Toads: An Unnatural History (1988) (predicted rating: 5.00)
+4 - Opening Night (1979) (predicted rating: 5.00)
+5 - 3-2-1 Penguins: Runaway Pride at Lightstation Kilowatt (2002) (predicted rating: 5.00)
+6 - Project A-ko: Love and Robots (1987) (predicted rating: 5.00)
+7 - Gay Weddings (2002) (predicted rating: 4.76)
+8 - Lord of the Rings: The Return of the King: Extended Edition (2003) (predicted rating: 4.74)
+9 - The Lord of the Rings: The Fellowship of the Ring: Extended Edition (2001) (predicted rating: 4.74)
+10 - Lord of the Rings: The Two Towers: Extended Edition (2002) (predicted rating: 4.72)
+11 - Battlestar Galactica: Season 1 (2004) (predicted rating: 4.70)
+12 - Lost: Season 1 (2004) (predicted rating: 4.69)
+13 - Deacons for Defense (2003) (predicted rating: 4.69)
+14 - Teenage Mutant Ninja Turtles (2003) (predicted rating: 4.65)
+15 - Veronica Mars: Season 1 (2004) (predicted rating: 4.62)
+16 - The Shawshank Redemption: Special Edition (1994) (predicted rating: 4.61)
+17 - Arrested Development: Season 2 (2004) (predicted rating: 4.60)
+18 - The Simpsons: Season 6 (1994) (predicted rating: 4.60)
+19 - Lord of the Rings: The Return of the King (2003) (predicted rating: 4.58)
+20 - Fullmetal Alchemist (2004) (predicted rating: 4.58)
+
+my recommendation
+1 - You Got Served: Take it to the Streets (2004) (predicted rating: 5.00)
+2 - Project A-ko: Love and Robots (1987) (predicted rating: 5.00)
+3 - Opening Night (1979) (predicted rating: 5.00)
+4 - 3-2-1 Penguins: Runaway Pride at Lightstation Kilowatt (2002) (predicted rating: 5.00)
+5 - Clarissa Explains It All: Season 1 (1991) (predicted rating: 5.00)
+6 - Cane Toads: An Unnatural History (1988) (predicted rating: 4.88)
+7 - Lord of the Rings: The Return of the King: Extended Edition (2003) (predicted rating: 4.74)
+8 - The Lord of the Rings: The Fellowship of the Ring: Extended Edition (2001) (predicted rating: 4.73)
+9 - Deacons for Defense (2003) (predicted rating: 4.72)
+10 - Lord of the Rings: The Two Towers: Extended Edition (2002) (predicted rating: 4.72)
+11 - Teenage Mutant Ninja Turtles (2003) (predicted rating: 4.71)
+12 - Lost: Season 1 (2004) (predicted rating: 4.69)
+13 - Battlestar Galactica: Season 1 (2004) (predicted rating: 4.69)
+14 - Gay Weddings (2002) (predicted rating: 4.65)
+15 - Veronica Mars: Season 1 (2004) (predicted rating: 4.63)
+16 - The Shawshank Redemption: Special Edition (1994) (predicted rating: 4.61)
+17 - Arrested Development: Season 2 (2004) (predicted rating: 4.60)
+18 - The Simpsons: Season 6 (1994) (predicted rating: 4.60)
+19 - Fullmetal Alchemist (2004) (predicted rating: 4.59)
+20 - House (2004) (predicted rating: 4.59)
+
+16355's recommendation
+1 - Clarissa Explains It All: Season 1 (1991) (predicted rating: 5.00)
+2 - Project A-ko: Love and Robots (1987) (predicted rating: 5.00)
+3 - 3-2-1 Penguins: Runaway Pride at Lightstation Kilowatt (2002) (predicted rating: 5.00)
+4 - Opening Night (1979) (predicted rating: 5.00)
+5 - Cane Toads: An Unnatural History (1988) (predicted rating: 4.89)
+6 - You Got Served: Take it to the Streets (2004) (predicted rating: 4.82)
+7 - Lord of the Rings: The Return of the King: Extended Edition (2003) (predicted rating: 4.72)
+8 - The Lord of the Rings: The Fellowship of the Ring: Extended Edition (2001) (predicted rating: 4.72)
+9 - Lord of the Rings: The Two Towers: Extended Edition (2002) (predicted rating: 4.70)
+10 - Battlestar Galactica: Season 1 (2004) (predicted rating: 4.67)
+11 - Lost: Season 1 (2004) (predicted rating: 4.67)
+12 - Arrested Development: Season 2 (2004) (predicted rating: 4.62)
+13 - Gay Weddings (2002) (predicted rating: 4.61)
+14 - The Simpsons: Season 6 (1994) (predicted rating: 4.60)
+15 - Veronica Mars: Season 1 (2004) (predicted rating: 4.60)
+16 - The Shawshank Redemption: Special Edition (1994) (predicted rating: 4.59)
+17 - The Murder of Emmett Till: American Experience (2003) (predicted rating: 4.57)
+18 - The Simpsons: Season 5 (1993) (predicted rating: 4.57)
+19 - Lord of the Rings: The Return of the King (2003) (predicted rating: 4.56)
+20 - Star Wars: Episode V: The Empire Strikes Back (1980) (predicted rating: 4.56)
+
+RMSE for user 16355: 2.311753
+
+The output of parallelALS are two matrices U and M whose product is an 
+approximation of your input matrix.
+
+The matrices are outputed as sequence files with an IntWritable as key 
+(the index of the row in the matrix) and a VectorWritable as value which 
+holds the contents of the row vector.
+
+jack's recommendation with factorization
+1 - You Got Served: Take it to the Streets (2004) (predicted rating: 4.69)
+2 - New Fist of the North Star (2004) (predicted rating: 4.41)
+3 - Body Without Soul (1996) (predicted rating: 4.32)
+4 - Silent Mobius: Vol. 1 (1998) (predicted rating: 4.32)
+5 - Deacons for Defense (2003) (predicted rating: 4.32)
+6 - Fearless Hyena 1 / Fearless Hyena 2 (1983) (predicted rating: 4.30)
+7 - WWE: The Ultimate Ric Flair Collection (2003) (predicted rating: 4.27)
+8 - Bubblegum Crisis (1998) (predicted rating: 4.18)
+9 - You're Invited to Mary-Kate and Ashley's Greatest Parties (1995) (predicted rating: 4.00)
+10 - Dragon Ball Z: Great Saiyaman: Final Round (1999) (predicted rating: 3.98)
+11 - The Twelve Kingdoms (2002) (predicted rating: 3.98)
+12 - Battle Athletes Victory: Vol. 1: Training (1998) (predicted rating: 3.97)
+13 - Dragon Ball Z: Great Saiyaman: Gohan's Secret (1999) (predicted rating: 3.95)
+14 - Full Metal Panic FUMOFFU (2002) (predicted rating: 3.92)
+15 - Bride with White Hair 2 (1993) (predicted rating: 3.91)
+16 - Dragon Ball Z: Frieza (2003) (predicted rating: 3.90)
+17 - Happy Lesson (2004) (predicted rating: 3.90)
+18 - Burn Up Excess: Vol. 3: Under the Gun (2002) (predicted rating: 3.90)
+19 - Lupin the 3rd (2002) (predicted rating: 3.89)
+20 - Dragon Ball: Mystical Adventure (2001) (predicted rating: 3.88)
+
+my recommendation
+1 - Lord of the Rings: The Return of the King: Extended Edition (2003) (predicted rating: 4.49)
+2 - The Lord of the Rings: The Fellowship of the Ring: Extended Edition (2001) (predicted rating: 4.48)
+3 - The Murder of Emmett Till: American Experience (2003) (predicted rating: 4.48)
+4 - Lost: Season 1 (2004) (predicted rating: 4.48)
+5 - Lord of the Rings: The Two Towers: Extended Edition (2002) (predicted rating: 4.47)
+6 - Veronica Mars: Season 1 (2004) (predicted rating: 4.44)
+7 - House (2004) (predicted rating: 4.43)
+8 - The Shawshank Redemption: Special Edition (1994) (predicted rating: 4.41)
+9 - Battlestar Galactica: Season 1 (2004) (predicted rating: 4.41)
+10 - You Got Served: Take it to the Streets (2004) (predicted rating: 4.36)
+11 - The Sopranos: Season 5 (2004) (predicted rating: 4.36)
+12 - Band of Brothers (2001) (predicted rating: 4.36)
+13 - 24: Season 2 (2002) (predicted rating: 4.34)
+14 - Lord of the Rings: The Return of the King (2003) (predicted rating: 4.34)
+15 - Anne of Green Gables: The Sequel (1987) (predicted rating: 4.33)
+16 - The West Wing: Season 3 (2001) (predicted rating: 4.33)
+17 - Gilmore Girls: Season 4 (2003) (predicted rating: 4.33)
+18 - 24: Season 1 (2001) (predicted rating: 4.32)
+19 - 24: Season 3 (2003) (predicted rating: 4.32)
+20 - Star Wars: Episode V: The Empire Strikes Back (1980) (predicted rating: 4.31)
+
+
+
+
+
+
